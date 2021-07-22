@@ -1,5 +1,6 @@
 # Force .sh files for provisioning scripts to use LF, even on Windows
 *.sh text eol=lf
+*.bats text eol=lf
 *.php text eol=lf
 #*.json text eol=lf
 
