@@ -2,6 +2,7 @@
 # -*- tab-width: 4; encoding: utf-8 -*-
 
 declare -r DIR=$(cd "$(dirname "$0")" && pwd)
+# shellcheck source=./../lib/bsfl.sh
 source $DIR/../lib/bsfl.sh
 
 # --------------------

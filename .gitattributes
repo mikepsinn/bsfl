@@ -1,0 +1,6 @@
+# Force .sh files to use LF line endings, even on Windows
+*.sh text eol=lf
+*.bats text eol=lf
+
+# If you want files you check in to be normalized, do this: Set text=auto in your .gitattributes for all files:
+* text=auto
