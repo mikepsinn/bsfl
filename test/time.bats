@@ -1,7 +1,7 @@
 #!/usr/bin/env bats
 # -*- tab-width: 4; encoding: utf-8 -*-
 
-load ../lib/bsfl
+load ../lib/bsfl.sh
 
 # elapsed()
 # --------------------------------------------------------------#
